@@ -1,0 +1,8 @@
+.wrap {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+.wrap input {
+  width: 200px;
+}
